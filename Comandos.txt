@@ -1,0 +1,8 @@
+# Comando para iniciar la aplicación 
+1) npm init -y
+2) npm i express
+3) npm i nodemon -D
+4) npm i mysql2 
+
+# Variable de entorno 
+5) npm i dotenv
